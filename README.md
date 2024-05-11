@@ -22,4 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/DDOrozco17/act6_0460/assets/143548028/8b91fd34-82ef-464b-b8d0-5a8fdeaa7c5b)
 ![image](https://github.com/DDOrozco17/act6_0460/assets/143548028/fea583a6-831d-478b-9645-71adb943fb86)
+![image](https://github.com/DDOrozco17/act6_0460/assets/143548028/0b18b1c0-97c1-4500-bcc2-92d7209fe2f7)
+![image](https://github.com/DDOrozco17/act6_0460/assets/143548028/e1841a10-3e77-4f30-a600-9b375a2fa6cb)
+
+
 
